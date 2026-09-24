@@ -29,6 +29,7 @@ The following Samsung units have been confirmed to work with the NASA protocol:
 - AR07TXFCAWKNEU
 - AR12TSFABWKNCV
 - AR12TSFACWKX
+- AC071TNHDKG
 
 ### NonNASA Protocol
 
